@@ -1,6 +1,6 @@
-#ifndef _OBJECT_LIKE_MACRO_H
-#define _OBJECT_LIKE_MACRO_H
+#ifndef _PI_
+#define _PI_
 
-#define SIZE 3.14159265359
+#define PI 3.14159265359
 
-#endif /*_OBJECT_LIKE_MACRO_H */
+#endif /*_PI_ */
